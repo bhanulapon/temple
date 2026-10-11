@@ -1,0 +1,6 @@
+{
+  "name": "Das Jagannath Temple, Odisha",
+  "description": "Official digital portal of Das Jagannath Temple, Odisha. Daily darshan timings, online pooja & seva booking, e-Hundi donations, festival schedules, and pilgrim guidelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
